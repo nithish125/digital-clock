@@ -1,0 +1,13 @@
+#clock{
+    width: 200px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 45px;
+    text-align: center;
+}
+.clock2{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
